@@ -1,0 +1,7 @@
+10001,milk,liter,20,11/11/2022,11/11/2023,30.00,0.00,drink
+10002,beef,kilo,14,11/11/2022,11/11/2023,360.00,0.00,food
+10003,honey,kilo,19,11/11/2022,11/11/2023,500.00,0.00,food
+10004,pasta,kilo,36,11/11/2022,11/11/2023,90.00,0.00,food
+10005,chease,kilo,25,11/11/2022,11/11/2023,100.00,0.00,food
+10006,poteto,kilo,50,11/11/2022,11/11/2023,9.00,0.00,vegetables
+code,name,size,amount,prodate,expdate,price,offer,category
